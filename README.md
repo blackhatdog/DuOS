@@ -10,3 +10,24 @@ The following key software is included:
 * **Display Manager:** LightDM
 * **File Manager:** Thunar
 * **Terminal:** XTerm
+* **Editor:** Mousepad
+
+## How to Install
+### Step1: Download the latest release iso from [here](https://pages.github.com/)
+
+ ## Acknowledgements
+
+This project uses software from the following projects:
+
+* Debian
+* XFCE Project
+* LightDM
+* Mousepad
+* xterm
+* The Linux Project
+* Mozilla Firefox
+  
+
+
+## Inspired by Dubai
+And the cops!
