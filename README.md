@@ -1,6 +1,6 @@
 # DuOS
-[Home](https://blackhatdog.github.io/DuOS)  [Download](https://github.com/blackhatdog/DuOS/releases) [Bugs/Issues](https://github.com/blackhatdog/DuOS/issues) [Wiki](https://github.com/blackhatdog/DuOS/wiki)  
-Lightweight Debian distribution for everyday use,inspired by Dubai.
+[Home](https://blackhatdog.github.io/DuOS)  [Download](https://github.com/blackhatdog/DuOS/releases) [Bugs/Issues](https://github.com/blackhatdog/DuOS/issues) [Wiki](https://github.com/blackhatdog/DuOS/wiki)  [Installation](https://blackhatdog.github.io/DuOS/#how-to-install)
+<br>Lightweight Debian distribution for everyday use,inspired by Dubai.
 ## What is DuOS ?
 DuOS,is a simple lightweight debian distribution, featuring the classic XFCE4 Window manager paired with modern linux utilities ,intended to set the user at ease with its easy to learn interface.
 ## Included Software
