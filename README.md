@@ -1,4 +1,5 @@
 # DuOS
+[Home](https://blackhatdog.github.io/DuOS)  [Download](https://github.com/blackhatdog/DuOS/releases) [Bugs/Issues](https://github.com/blackhatdog/DuOS/issues) [Wiki](https://github.com/blackhatdog/DuOS/wiki)  
 Lightweight Debian distribution for everyday use,inspired by Dubai.
 ## What is DuOS ?
 DuOS,is a simple lightweight debian distribution, featuring the classic XFCE4 Window manager paired with modern linux utilities ,intended to set the user at ease with its easy to learn interface.
@@ -38,7 +39,7 @@ Now,that you have tested DuOS on a VM,lets see how we can run it on bare metal.
 After preparing your bootable pendrive,plug into your computer and restart.
 Remember to check online for your motherboard manufacturer's BIOS Boot key.This is crucial as you must have access to the BIOS to modify the boot order,to make the computer boot into DU OS,or if you have the F12 menu setup,enter the F12 menu and select your bootable pendrive.
 
-##Default Credentials
+## Default Credentials
 Username:jk
 password:jk
 
@@ -66,3 +67,6 @@ This project uses software from the following projects:
 
 ## Inspired by Dubai
 And the cops!
+<br>
+Licensed under the MIT License<br>
+@blackhatdog Nihal S Raj
